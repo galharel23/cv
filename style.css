@@ -1,0 +1,31 @@
+h1
+{
+font-weight: bold;
+font-size: 30;
+color: blue                                                                                                ;
+}
+h1
+{
+font-weight: lighter;
+font-size:small
+color: black                                                                                                ;
+}
+li
+{
+    font-size: medium;
+    font-weight: lighter;
+color: blue                                                                                 ;
+}
+ul
+{
+    font-size: medium;
+    font-weight: bolder;
+color: black                                                                                 ;
+}
+img {
+    border-radius: 50%;
+  }
+  thead
+  {
+      font-weight: bold;
+  }
